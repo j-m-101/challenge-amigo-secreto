@@ -1,4 +1,4 @@
-# Titulo del documento
+# Practicando Lógica de Programación: Challenge Amigo secreto
 
 ### Instrucciones del Juego
 El desafío consiste en un juego interactivo web en el cual el usuario deberá ingresar una serie de nombres "amigos" y luego de una cierta cantidad de ingresos podrá sortear el “amigo secreto”.
